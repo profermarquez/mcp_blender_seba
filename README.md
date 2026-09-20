@@ -1,1 +1,1 @@
-Descargar e instalar en Complementos de Blender
+Descargar e instalar como un complemento dentro de Blender.
